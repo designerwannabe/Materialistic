@@ -1,7 +1,7 @@
 ## Welcome to Materialistic
 
 Materialistic is a sample Material Design Version of Zurb Foundation I am currently experimenting.
-Great shout out to [Eucalyptuss](https://github.com/eucalyptuss) for this dope design :heart_eyes:
+Great shout out to [Eucalyptuss](https://github.com/eucalyptuss) for this dope design
 
 ### What does it do?
 
