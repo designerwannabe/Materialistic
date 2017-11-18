@@ -10,8 +10,8 @@ In specifics, it has:
 
 * New Material Palettes
 * Foundation Styles
-* Material Design :heart_eyes:
-* A lot of room to improve.  :confounded:
+* Material Design
+* A lot of room to improve.
 
 ### Why did you made it?
 
